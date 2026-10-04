@@ -1,5 +1,7 @@
 # Mortar (Cement) – AI-Assisted Analysis
 
+[Repository overview](../README.md) · [Execution and reproducibility guide](../docs/REPRODUCIBILITY.md)
+
 This folder contains the AI-assisted analyses developed for cement mortar mixtures.
 
 Two main analysis categories are investigated:
@@ -8,6 +10,8 @@ Two main analysis categories are investigated:
 - Gauge Factor (GF)
 
 ## Mechanical Properties
+
+Shared data: [Final.xlsx](Mechanical_Properties/Final.xlsx). Upload it to `/content/Final.xlsx` and keep `/content` as the working directory.
 
 The mechanical property analysis focuses on predicting:
 
@@ -77,6 +81,7 @@ Mortar(Cement)/
 ├── README.md
 │
 ├── Mechanical_Properties/
+│   ├── Final.xlsx
 │   ├── GA_PSO/
 │   │   ├── README.md
 │   │   └── GA_and_PSO.ipynb
@@ -95,7 +100,7 @@ Mortar(Cement)/
 │
 └── Gauge_Factor/
     ├── README.md
-    └── Mortar_GFend_Modeling.ipynb
+    └── GFend.ipynb
 ```
 
 ## Reproducibility

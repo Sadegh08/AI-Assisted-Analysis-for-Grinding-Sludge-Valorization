@@ -1,5 +1,7 @@
 # Hydrometallurgy – AI-Assisted Analysis
 
+[Repository overview](../README.md)
+
 This repository section contains the Python-based analysis developed for the hydrometallurgical assessment of recovered iron chloride products.
 
 The analysis evaluates impurity levels, product quality classification, quality ranking, and similarities among recovered products and a commercial FeCl3 reference.
@@ -50,7 +52,9 @@ The commercial FeCl3 sample is included as a benchmark, while the SKF A2 leachat
 
 The complete analysis is available in:
 
-`Hydrometallurgy_AI_Analysis.ipynb`
+[Hydrometallurgy_AI_Analysis.ipynb](Hydrometallurgy_AI_Analysis.ipynb)
+
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Hydrometallurgy/Hydrometallurgy_AI_Analysis.ipynb) · [Execution and reproducibility guide](../docs/REPRODUCIBILITY.md)
 
 The notebook was developed for execution in Google Colab and uses:
 

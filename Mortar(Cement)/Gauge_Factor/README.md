@@ -1,4 +1,6 @@
-# Mortar – AI-Assisted Analysis
+# Mortar Gauge Factor – AI-Assisted Analysis
+
+[Repository overview](../../README.md) · [Mortar (Cement)](../README.md)
 
 This folder contains the AI-assisted analysis developed for predicting the average final gauge factor (GFend) of cement mortar mixtures.
 
@@ -71,6 +73,8 @@ The SHAP results are used to interpret model behavior rather than causal relatio
 
 ## Input Data
 
+The numerical input data are defined in the notebook. No external Excel input is required; run the notebook cells in their existing order.
+
 The analysis uses nine averaged experimental mixture conditions containing:
 
 - Sludge content
@@ -81,7 +85,9 @@ The analysis uses nine averaged experimental mixture conditions containing:
 
 The complete analysis is available in:
 
-`Mortar_GFend_Modeling.ipynb`
+[GFend.ipynb](GFend.ipynb)
+
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Gauge_Factor/GFend.ipynb) · [Execution and reproducibility guide](../../docs/REPRODUCIBILITY.md)
 
 ## Outputs
 

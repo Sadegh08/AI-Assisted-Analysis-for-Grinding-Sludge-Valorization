@@ -1,5 +1,7 @@
 # GA–PSO Analysis of Aging Index
 
+[Repository overview](../../README.md) · [Bituminous mastic](../README.md)
+
 This folder contains the Genetic Algorithm (GA) and Particle Swarm Optimization (PSO) analyses developed for estimating the coefficients of an empirical Aging Index model for bituminous mastics.
 
 ## Analysis
@@ -55,9 +57,11 @@ The notebook also evaluates optimization stability using the mean, standard devi
 
 ## Input Data
 
+Upload the dataset to `/content/Aging index.xlsx` and keep `/content` as the working directory. Follow the execution guide linked below to prepare the runtime.
+
 The analysis uses:
 
-`Aging index.xlsx`
+[Aging index.xlsx](../Aging%20index.xlsx)
 
 The dataset contains experimental Aging Index measurements together with filler type, filler-to-bitumen ratio by weight, and angular frequency.
 
@@ -65,7 +69,9 @@ The dataset contains experimental Aging Index measurements together with filler 
 
 The complete analysis is available in:
 
-`GA_PSO.ipynb`
+[GA_and_PSO.ipynb](GA_and_PSO.ipynb)
+
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Bituminous_Mastic/GA_PSO/GA_and_PSO.ipynb) · [Execution and reproducibility guide](../../docs/REPRODUCIBILITY.md)
 
 ## Outputs
 

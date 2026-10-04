@@ -1,5 +1,7 @@
 # SVR Analysis of Mortar Mechanical Properties
 
+[Repository overview](../../../README.md) · [Mortar (Cement)](../../README.md)
+
 This folder contains the Support Vector Regression (SVR) analysis developed for predicting the mechanical properties of cement mortar mixtures.
 
 ## Analysis
@@ -43,6 +45,8 @@ Prediction performance is evaluated separately for flexural strength and compres
 
 ## Input Data
 
+Data file: [Final.xlsx](../Final.xlsx). Upload it to `/content/Final.xlsx` and keep `/content` as the working directory.
+
 The analysis uses the experimental dataset containing:
 
 - Sludge content
@@ -55,7 +59,9 @@ The analysis uses the experimental dataset containing:
 
 The complete SVR analysis is available in:
 
-`SVR.ipynb`
+[SVR.ipynb](SVR.ipynb)
+
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Mechanical_Properties/SVR/SVR.ipynb) · [Execution and reproducibility guide](../../../docs/REPRODUCIBILITY.md)
 
 ## Outputs
 

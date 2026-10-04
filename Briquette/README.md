@@ -1,5 +1,7 @@
 # Briquette – AI-Assisted Analysis
 
+[Repository overview](../README.md)
+
 This repository section contains the Python-based analysis developed for the assessment of briquette formulations based on their mechanical properties.
 
 The analysis evaluates similarities among briquette formulations using compression strength and durability and applies hierarchical clustering to identify groups with comparable mechanical behaviour.
@@ -59,7 +61,9 @@ This allows the numerical clustering results to be examined alongside the dendro
 
 The complete analysis is available in:
 
-`Briquette_AI_Analysis.ipynb`
+[Briquette_AI_Analysis.ipynb](Briquette_AI_Analysis.ipynb)
+
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Briquette/Briquette_AI_Analysis.ipynb) · [Execution and reproducibility guide](../docs/REPRODUCIBILITY.md)
 
 The notebook was developed for execution in Google Colab and uses:
 

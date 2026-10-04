@@ -1,5 +1,7 @@
 # SVR Analysis of Aging Index
 
+[Repository overview](../../README.md) · [Bituminous mastic](../README.md)
+
 This folder contains the Support Vector Regression (SVR) analysis developed for predicting the Aging Index of bituminous mastics.
 
 ## Analysis
@@ -52,15 +54,19 @@ Metrics are calculated for the complete set of held-out predictions and for indi
 
 ## Input Data
 
+Upload the dataset to `/content/Aging index.xlsx` and keep `/content` as the working directory. Follow the execution guide linked below to prepare the runtime.
+
 The analysis uses:
 
-`Aging index.xlsx`
+[Aging index.xlsx](../Aging%20index.xlsx)
 
 ## Notebook
 
 The complete SVR analysis is available in:
 
-`SVR.ipynb`
+[SVR.ipynb](SVR.ipynb)
+
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Bituminous_Mastic/SVR/SVR.ipynb) · [Execution and reproducibility guide](../../docs/REPRODUCIBILITY.md)
 
 ## Outputs
 

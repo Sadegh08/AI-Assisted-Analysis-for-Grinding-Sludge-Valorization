@@ -1,5 +1,7 @@
 # GPR Analysis of Mortar Mechanical Properties
 
+[Repository overview](../../../README.md) · [Mortar (Cement)](../../README.md)
+
 This folder contains the Gaussian Process Regression (GPR) analysis developed for predicting the mechanical properties of cement mortar mixtures.
 
 ## Analysis
@@ -44,6 +46,8 @@ The performance metrics are calculated separately for flexural strength and comp
 
 ## Input Data
 
+Data file: [Final.xlsx](../Final.xlsx). Upload it to `/content/Final.xlsx` and keep `/content` as the working directory.
+
 The analysis uses the experimental dataset containing:
 
 - Sludge content
@@ -56,7 +60,9 @@ The analysis uses the experimental dataset containing:
 
 The complete GPR analysis is available in:
 
-`GPR.ipynb`
+[GPR.ipynb](GPR.ipynb)
+
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Mechanical_Properties/GPR/GPR.ipynb) · [Execution and reproducibility guide](../../../docs/REPRODUCIBILITY.md)
 
 ## Outputs
 
