@@ -61,7 +61,7 @@ The complete SVR analysis is available in:
 
 [SVR.ipynb](SVR.ipynb)
 
-[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Mechanical_Properties/SVR/SVR.ipynb) · [Execution and reproducibility guide](../../../docs/REPRODUCIBILITY.md)
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Mortar%28Cement%29/Mechanical_Properties/SVR/SVR.ipynb) · [Execution and reproducibility guide](../../../docs/REPRODUCIBILITY.md)
 
 ## Outputs
 

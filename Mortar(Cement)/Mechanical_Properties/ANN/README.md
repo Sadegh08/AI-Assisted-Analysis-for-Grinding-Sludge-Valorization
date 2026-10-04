@@ -58,7 +58,7 @@ The complete ANN analysis is available in:
 
 [ANN.ipynb](ANN.ipynb)
 
-[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Mechanical_Properties/ANN/ANN.ipynb) · [Execution and reproducibility guide](../../../docs/REPRODUCIBILITY.md)
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Mortar%28Cement%29/Mechanical_Properties/ANN/ANN.ipynb) · [Execution and reproducibility guide](../../../docs/REPRODUCIBILITY.md)
 
 ## Outputs
 

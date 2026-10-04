@@ -63,7 +63,7 @@ The complete analysis is available in:
 
 [Briquette_AI_Analysis.ipynb](Briquette_AI_Analysis.ipynb)
 
-[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Briquette/Briquette_AI_Analysis.ipynb) · [Execution and reproducibility guide](../docs/REPRODUCIBILITY.md)
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Briquette/Briquette_AI_Analysis.ipynb) · [Execution and reproducibility guide](../docs/REPRODUCIBILITY.md)
 
 The notebook was developed for execution in Google Colab and uses:
 

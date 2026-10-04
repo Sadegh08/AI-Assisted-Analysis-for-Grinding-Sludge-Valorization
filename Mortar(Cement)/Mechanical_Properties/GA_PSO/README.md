@@ -66,7 +66,7 @@ The complete GA and PSO analysis is available in:
 
 [GA_and_PSO.ipynb](GA_and_PSO.ipynb)
 
-[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Mechanical_Properties/GA_PSO/GA_and_PSO.ipynb) · [Execution and reproducibility guide](../../../docs/REPRODUCIBILITY.md)
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Mortar%28Cement%29/Mechanical_Properties/GA_PSO/GA_and_PSO.ipynb) · [Execution and reproducibility guide](../../../docs/REPRODUCIBILITY.md)
 
 ## Outputs
 

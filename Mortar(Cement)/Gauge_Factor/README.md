@@ -87,7 +87,7 @@ The complete analysis is available in:
 
 [GFend.ipynb](GFend.ipynb)
 
-[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Gauge_Factor/GFend.ipynb) · [Execution and reproducibility guide](../../docs/REPRODUCIBILITY.md)
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Mortar%28Cement%29/Gauge_Factor/GFend.ipynb) · [Execution and reproducibility guide](../../docs/REPRODUCIBILITY.md)
 
 ## Outputs
 

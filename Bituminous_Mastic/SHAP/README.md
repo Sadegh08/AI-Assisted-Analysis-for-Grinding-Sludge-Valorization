@@ -40,7 +40,7 @@ The complete SHAP analysis is available in:
 
 [SHAP.ipynb](SHAP.ipynb)
 
-[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Bituminous_Mastic/SHAP/SHAP.ipynb) · [Execution and reproducibility guide](../../docs/REPRODUCIBILITY.md)
+[Open in Google Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Bituminous_Mastic/SHAP/SHAP.ipynb) · [Execution and reproducibility guide](../../docs/REPRODUCIBILITY.md)
 
 ## Outputs
 

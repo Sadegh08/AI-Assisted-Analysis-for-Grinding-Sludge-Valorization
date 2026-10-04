@@ -30,19 +30,19 @@ The analysis links open the source notebooks on GitHub; the Colab links open the
 
 | Research area | Notebook | Run |
 | --- | --- | --- |
-| Hydrometallurgy | [Clustering and quality assessment](Hydrometallurgy/Hydrometallurgy_AI_Analysis.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Hydrometallurgy/Hydrometallurgy_AI_Analysis.ipynb) |
-| Briquette | [Mechanical-property clustering](Briquette/Briquette_AI_Analysis.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Briquette/Briquette_AI_Analysis.ipynb) |
-| Bituminous mastic | [GA / PSO](Bituminous_Mastic/GA_PSO/GA_and_PSO.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Bituminous_Mastic/GA_PSO/GA_and_PSO.ipynb) |
-| Bituminous mastic | [ANN](Bituminous_Mastic/ANN/ANN.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Bituminous_Mastic/ANN/ANN.ipynb) |
-| Bituminous mastic | [GPR](Bituminous_Mastic/GPR/GPR.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Bituminous_Mastic/GPR/GPR.ipynb) |
-| Bituminous mastic | [SVR](Bituminous_Mastic/SVR/SVR.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Bituminous_Mastic/SVR/SVR.ipynb) |
-| Bituminous mastic | [SHAP interpretation](Bituminous_Mastic/SHAP/SHAP.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Bituminous_Mastic/SHAP/SHAP.ipynb) |
-| Mortar: mechanical properties | [GA / PSO](Mortar%28Cement%29/Mechanical_Properties/GA_PSO/GA_and_PSO.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Mechanical_Properties/GA_PSO/GA_and_PSO.ipynb) |
-| Mortar: mechanical properties | [ANN](Mortar%28Cement%29/Mechanical_Properties/ANN/ANN.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Mechanical_Properties/ANN/ANN.ipynb) |
-| Mortar: mechanical properties | [GPR](Mortar%28Cement%29/Mechanical_Properties/GPR/GPR.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Mechanical_Properties/GPR/GPR.ipynb) |
-| Mortar: mechanical properties | [SVR](Mortar%28Cement%29/Mechanical_Properties/SVR/SVR.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Mechanical_Properties/SVR/SVR.ipynb) |
-| Mortar: mechanical properties | [SHAP interpretation](Mortar%28Cement%29/Mechanical_Properties/SHAP/SHAP_GPR.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Mechanical_Properties/SHAP/SHAP_GPR.ipynb) |
-| Mortar: gauge factor | [Interpolation, regression and SHAP](Mortar%28Cement%29/Gauge_Factor/GFend.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis/blob/main/Mortar%28Cement%29/Gauge_Factor/GFend.ipynb) |
+| Hydrometallurgy | [Clustering and quality assessment](Hydrometallurgy/Hydrometallurgy_AI_Analysis.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Hydrometallurgy/Hydrometallurgy_AI_Analysis.ipynb) |
+| Briquette | [Mechanical-property clustering](Briquette/Briquette_AI_Analysis.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Briquette/Briquette_AI_Analysis.ipynb) |
+| Bituminous mastic | [GA / PSO](Bituminous_Mastic/GA_PSO/GA_and_PSO.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Bituminous_Mastic/GA_PSO/GA_and_PSO.ipynb) |
+| Bituminous mastic | [ANN](Bituminous_Mastic/ANN/ANN.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Bituminous_Mastic/ANN/ANN.ipynb) |
+| Bituminous mastic | [GPR](Bituminous_Mastic/GPR/GPR.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Bituminous_Mastic/GPR/GPR.ipynb) |
+| Bituminous mastic | [SVR](Bituminous_Mastic/SVR/SVR.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Bituminous_Mastic/SVR/SVR.ipynb) |
+| Bituminous mastic | [SHAP interpretation](Bituminous_Mastic/SHAP/SHAP.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Bituminous_Mastic/SHAP/SHAP.ipynb) |
+| Mortar: mechanical properties | [GA / PSO](Mortar%28Cement%29/Mechanical_Properties/GA_PSO/GA_and_PSO.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Mortar%28Cement%29/Mechanical_Properties/GA_PSO/GA_and_PSO.ipynb) |
+| Mortar: mechanical properties | [ANN](Mortar%28Cement%29/Mechanical_Properties/ANN/ANN.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Mortar%28Cement%29/Mechanical_Properties/ANN/ANN.ipynb) |
+| Mortar: mechanical properties | [GPR](Mortar%28Cement%29/Mechanical_Properties/GPR/GPR.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Mortar%28Cement%29/Mechanical_Properties/GPR/GPR.ipynb) |
+| Mortar: mechanical properties | [SVR](Mortar%28Cement%29/Mechanical_Properties/SVR/SVR.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Mortar%28Cement%29/Mechanical_Properties/SVR/SVR.ipynb) |
+| Mortar: mechanical properties | [SHAP interpretation](Mortar%28Cement%29/Mechanical_Properties/SHAP/SHAP_GPR.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Mortar%28Cement%29/Mechanical_Properties/SHAP/SHAP_GPR.ipynb) |
+| Mortar: gauge factor | [Interpolation, regression and SHAP](Mortar%28Cement%29/Gauge_Factor/GFend.ipynb) | [Open in Colab](https://colab.research.google.com/github/Sadegh08/AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/blob/main/Mortar%28Cement%29/Gauge_Factor/GFend.ipynb) |
 
 ## Input data
 
@@ -59,7 +59,7 @@ For the exact runtime locations, model-file dependency, and execution order, see
 ## Repository structure
 
 ```text
-AI-Assisted-Analysis/
+AI-Assisted-Analysis-for-Grinding-Sludge-Valorization/
 ├── README.md
 ├── docs/
 │   └── REPRODUCIBILITY.md
