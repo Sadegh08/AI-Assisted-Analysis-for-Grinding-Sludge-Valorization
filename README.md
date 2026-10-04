@@ -1,4 +1,4 @@
-# AI-Assisted Analysis
+# AI-Assisted Analysis for Grinding Sludge Valorization
 
 Data analysis, optimization, machine-learning modeling, and visualization for experimental materials research.
 
